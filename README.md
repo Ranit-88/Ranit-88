@@ -1,4 +1,29 @@
-#### 🌐 Full Stack Development:
+<h1 align="center">Hi 👋, I'm Ranit Kumar Mahapatra</h1>
+<h3 align="center">A passionate Full Stack Developer & Cloud DevOps Enthusiast</h3>
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+#### 🌐 Frontend & Backend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
@@ -11,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
-#### ☁️ DevOps & Cloud:
+#### ☁️ DevOps & Cloud
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
@@ -25,19 +50,24 @@
 
 ---
 
-### 🌐 Connect with Me (GFG Logo Fixed)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### ⭐ Featured Projects
 
 ```md
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
-  </a>
-</p>
+- [JeevaPath](https://github.com/your-github-username/jeevaPath) – A healthcare platform for better patient-provider interaction.
+- [Project-Name](https://github.com/your-github-username/project-name) – Add a brief description of another top project.
