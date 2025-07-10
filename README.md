@@ -6,15 +6,15 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ranit-kumar-mahapatra-12333a243/)" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile" target="_blank">
+  <a href="[https://auth.geeksforgeeks.org/user/your-gfg-profile](https://www.geeksforgeeks.org/user/ranit_kumar_0088/?_gl=1*1bdqqsk*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMI4YWBnPGyjgMVT6tmAh3-mQ2yEAAYASAAEgJgpvD_BwE&gbraid=0AAAAAC9yBkBYvoog7bf0jhSBUzHFJ1FSx)" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="[https://twitter.com/your-twitter](https://x.com/ranit_0088)" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
   </a>
 </p>
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="40" alt="AWS"/>
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" height="40" alt="Google Cloud"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-ci-cd-coding-and-development-flat-flat-juicy-fish.png" height="40" alt="CI/CD"/>
+  
 </p>
 
 ---
