@@ -1,28 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ranit Kumar Mahapatra</h1>
-<h3 align="center">A passionate Full Stack Developer and Cloud DevOps Enthusiast</h3>
-
----
-
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksForGeeks" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
-
 #### 🌐 Full Stack Development:
 
 <p>
@@ -30,7 +5,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" height="40" alt="Express.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
@@ -50,23 +25,19 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 Connect with Me (GFG Logo Fixed)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### ✨ GitHub Star Projects
-
-⭐ Highlight your best repositories here:
 ```md
-- [JeevaPath](https://github.com/your-github-username/jeevaPath) – A digital healthcare platform for better patient-provider interaction.
-- [Another-Project](https://github.com/your-github-username/project-name) – Describe your best full-stack or DevOps project.
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksForGeeks" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
+  </a>
+</p>
